@@ -2,7 +2,6 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Shopping List</title>
 </head>
 <body>
   <h1>Lista mea de cumparaturi</h1>
